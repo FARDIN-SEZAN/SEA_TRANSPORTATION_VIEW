@@ -1,5 +1,5 @@
-Project Title: SEA TRANSPORTATION
-This is just a self-made project for my "Computer Graphics" course. It took 13 days to complete the project. The project includes a total of 4 scene transitions. Below is a description of various Mouse/Keyboard interactions in different phases of the project:
+Project Title: SEA TRANSPORTATION<br>
+This is just a self-made project for my "Computer Graphics" course. It took 13 days to complete the project. The project includes a total of 4 scene transitions. Below is a description of various Mouse/Keyboard<br>interactions in different phases of the project:
 
 i )   Pressing 1, 2, 3, or 4 will trigger a scene transition ; <br>
 ii )  Each scene has a Day/Night function. Pressing the L|R mouse button will switch between Day and Night ; <br>
